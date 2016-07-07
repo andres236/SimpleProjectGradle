@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: org.gradle.main.App
+Implementation-Title: Gradle Quickstart
+Implementation-Version: 1.0
+
